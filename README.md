@@ -14,5 +14,5 @@ Please use the 'Issues' section to report bugs.
 
 # License
 The entire game excepting its fonts & engine is licensed under the MIT License (See 'LICENSE').  
-The fonts are licensed under the OFL. Each copy of the license and other font documention is located in the same directory with the respective fonts.  
+The fonts are licensed under the OFL. A copy of the license and other font documention is located in the same directory with the respective fonts.  
 LÖVE is licensed under the zlib/libpng license. The license & third party software list are available [here](https://love2d.org/wiki/License).
